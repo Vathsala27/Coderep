@@ -1,0 +1,15 @@
+{
+"products":
+[
+{"id":1,
+"productName":"babycare"
+"qty":200,
+"price":250.00
+},
+{"id":2,
+"productName":"baby powder"
+"qty":100,
+"price":150.00
+}
+]
+}
